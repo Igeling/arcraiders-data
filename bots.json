@@ -298,7 +298,7 @@
     "threat": "Extreme",
     "description": "Big walking Spider with heavy armour and energy shield. Can shoot gas grenades. Can call in  Fireball, Wasp, Leaper, Bastion, Bombardier and Rocketeer. Makes the queen look friendly.",
     "weakness":"Central glowing core, which becomes exposed when it attacks. Leg joints are vulnerable too, as well as the red areas on the crown.",
-    "maps":["dam_battlegrounds"],
+    "maps":["dam_battlegrounds", "the_blue_gate"],
     "destroyXp": 0,
     "lootXp": 0,
     "drops": [
