@@ -80,7 +80,7 @@
     "threat": "High",
     "description": "Medium-class drone with armored rotors. It fires focused, high-speed projectiles with a brief red laser warning. Designed to shred shields and light armor.",
     "weakness":"Unarmored rear thrusters.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
+    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city", "stella_montis_upper"],
     "destroyXp": 150,
     "lootXp": 250,
     "drops": [
@@ -280,7 +280,7 @@
     "threat": "Moderate",
     "description": "Flying, drone-like robots equipped with powerful machine guns. They operate in swarms, are fast, agile, and relentless. Their buzzing and screeching audio cues are your first warning.",
     "weakness":"Unarmored thrusters.",
-    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city"],
+    "maps":["dam_battlegrounds", "the_spaceport", "the_blue_gate", "buried_city", "stella_montis_upper"],
     "destroyXp": 100,
     "lootXp": 200,
     "drops": [
